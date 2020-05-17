@@ -15,7 +15,7 @@
 
 ## 💻 Projeto
 
-Aplicação que, a partir de uma lista de músicas permite ao usuário selecionar uma, informando o titulo e detalhes sobre ela.
+Aplicação com o objetivo de ajudar pessoas indecisas a tomarem decisões. O usuário informa as opções e o computador realiza o sorteio, projetando o resultado na tela. Além disso, o usuário pode remover individualmente uma opção, ou todas de vez.
 
 ## Instalação 🚀
 
